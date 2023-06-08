@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>物語のサイト</title>
+</head>
+<body>
+  <h1>物語の一覧</h1>
+
+  <section>
+    <h2>物語1のタイトル</h2>
+    <p>物語1の本文...</p>
+  </section>
+
+  <section>
+    <h2>物語2のタイトル</h2>
+    <p>物語2の本文...</p>
+  </section>
+
+  <section>
+    <h2>物語3のタイトル</h2>
+    <p>物語3の本文...</p>
+  </section>
+
+</body>
+</html>
